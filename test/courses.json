@@ -1,0 +1,1254 @@
+{  "aiml231": [
+    {
+      "course": "aiml231",
+      "level": "2",
+      "year": "2025",
+      "crn": ["35049"],
+      "title": "Techniques in Machine Learning",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "AIML 131 or 60 200-level points or at least a B in DATA 101; one of (COMP 103, 132)",
+      "restrictions": "COMP 307, 309, DATA 302",
+      "description": "This course introduces core concepts and techniques in machine learning, as well as commonly used software libraries for implementing machine learning pipelines. It includes an overview of the machine learning field, including supervised and unsupervised learning; fundamental machine learning techniques including neural networks; tools to understand data such as exploratory data analysis, pre-processing, and visualisation; and the design machine learning pipelines. This course balances theoretical concepts of machine learning and the use of programming libraries for hands-on practice."
+    }
+  ],
+  "aiml331": [
+    {
+      "course": "aiml331",
+      "level": "3",
+      "year": "2025",
+      "crn": ["37006"],
+      "title": "AI Computer Vision & Image Processing",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "AIML 232; one of (COMP 261, NWEN 241, SWEN 221, at least a B in both DATA 201, 202)",
+      "description": "Computer vision and image processing has a wide range of real-world applications, such as automated vehicles and face recognition. This course addresses key AI techniques, tasks, and applications in this area. The course covers a range of topics, starting from the basics of image pre-processing and data augmentation to recent deep learning techniques, addressing tasks such as edge detection, image segmentation, and image classification. Various applications of relevant techniques will also be introduced."
+    }
+  ],
+  "aiml333": [
+    {
+      "course": "aiml333",
+      "level": "3",
+      "year": "2025",
+      "crn": ["37009"],
+      "title": "Acting, Planning, and Scheduling",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "AIML 232; one of (COMP 261, NWEN 241, SWEN 221)",
+      "description": "This course introduces key concepts, techniques and algorithms for AI systems that perform actions. It starts with reactive systems that respond intelligently to observations, expands to AI systems that use their knowledge about the world to plan or schedule actions into the future, and finally considers AI systems that improve their behaviour while interacting with the world. The course considers a range of real-world application domains such as controlling devices, robotics, games, and logistics."
+    }
+  ],
+  "aiml335": [
+    {
+      "course": "aiml335",
+      "level": "3",
+      "year": "2025",
+      "crn": [],
+      "title": "Machine Learning",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "AIML 232; one of (COMP 261, NWEN 241, SWEN 221); one of (MATH 177, STAT 292)",
+      "description": "This course teaches fundamental concepts and mathematical techniques that underlie much of machine learning (ML). Topics include an introduction to learning theory, optimisation for ML, unsupervised learning, learning with latent variables, generative models, kernels, aspects of information theory, deep learning, continual/online learning, transfer learning, and anomaly detection. The course will also explore the connections between ML and cognitive science."
+    }
+  ],
+  "aiml339": [
+    {
+      "course": "aiml339",
+      "level": "3",
+      "year": "2025",
+      "crn": ["37011"],
+      "title": "Artificial Intelligence Project",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "AIML 232; one of AIML 331-335",
+      "description": "A capstone project to construct a solution to an AI task. The project may be an individual or a group project."
+    }
+  ],
+  "data201": [
+    {
+      "course": "data201",
+      "level": "2",
+      "year": "2025",
+      "crn": [],
+      "title": "Techniques of Data Science",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "(DATA 101 or SPCE 201), one of (COMP 102, 112, 132, INFO 102, 151), one of (ENGR 123, MATH 177, PHYS 245, QUAN 102, SPCE 245, STAT 193)",
+      "description": "Discover the essential computational techniques at the heart of data science, encompassing the realms of data integration and encryption. Dive into the mathematical concepts and techniques that underpin the entire data lifecycle, from generation and representation to transformation."
+    }
+  ],
+  "engr121": [
+    {
+      "course": "engr121",
+      "level": "1",
+      "year": "2025",
+      "crn": ["26052", "31158"],
+      "title": "Engineering Mathematics Foundations",
+      "points": "15",
+      "trimester": ["1", "2"],
+      "prerequisites": "(16 Achievement Standard credits NCEA Level 3 in Mathematics) or (12 Achievement Standard credits NCEA Level 3 Mathematics excluding the statistics standards 91580, 91581, 91582, 91583, 91584) or MATH 132",
+      "restrictions": "Any pair (MATH 141/QUAN 111, MATH 151/161/177)",
+      "description": "An introduction to the range of mathematical techniques employed by engineers, including functions, calculus, linear algebra, vector geometry, set theory, logic and probability. This course emphasises engineering applications and modelling."
+    }
+  ],
+    "math141": [
+    {
+      "course": "math141",
+      "level": "1",
+      "year": "2025",
+      "crn": ["17151"],
+      "title": "Calculus 1A",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "16 Achievement Standard credits NCEA Level 3 in Mathematics) or (12 Achievement Standard credits NCEA Level 3 Mathematics excluding the statistics standards 91580, 91581, 91582, 91583, 91584) or MATH 132",
+      "restrictions": "ENGR 122, MATH 142, QUAN 111",
+      "description": "Determining the rate of change of a function as its dependent variable changes is a key question in many sciences. It is also the basis for differential calculus, which is the first part of mathematical analysis. This course provides a thorough development of differential calculus. It builds on the ideas of functions and limits to define derivatives, and derives rules for computing them. These rules are demonstrated in scientific applications."
+    }
+  ],
+  "geog315": [
+    {
+      "course": "geog315",
+      "level": "3",
+      "year": "2025",
+      "crn": ["6012"],
+      "title": "Advanced GIS: Spatial Data Science",
+      "points": "20",
+      "trimester": ["2"],
+      "prerequisites": "GEOG 215, 15 200-level pts of COMP, DATA, MATH, STAT.",
+      "description": "In this course, you will focus on the manipulation, and analysis of spatial data by exploring the interdisciplinary applications of GIS across social, environmental, and earth sciences. Delve into advanced techniques for geospatial analysis, emphasizing real-world problem-solving. Develop proficiency in handling complex spatial datasets and apply your skills to address multifaceted geographical challenges. By the end of the course, you'll have a comprehensive understanding of advanced GIS approaches and their applications."
+    }
+  ],
+  "scis311": [
+    {
+      "course": "scis311",
+      "level": "3",
+      "year": "2025",
+      "crn": ["30128"],
+      "title": "Science Communication",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "60 200-level pts",
+      "description": "Build your science communication knowledge and skills through exploration of science communication theory and practice. You will hear from science communication practitioners and learn to communicate science to non-science audiences through hands-on experience creating science communication outputs for different audiences, including opportunity to explore creative mediums from science writing and visual design to videos and podcasts."
+    }
+  ],
+  "geog215": [
+    {
+      "course": "geog215",
+      "level": "2",
+      "year": "2025",
+      "crn": ["6005"],
+      "title": "Intro. to Geographic Information Systems (GIS) and Science",
+      "points": "20",
+      "trimester": ["2"],
+      "prerequisites": "60 100-level pts",
+      "description": "In this hands-on course, dive into real-world data and explore how GIS revolutionizes our understanding of the planet, people, and place. GIS combines the art of mapping, science of data analysis, and spatial understanding. From creating captivating maps to unravelling hidden patterns, you'll develop essential skills in demand in industry."
+    }
+  ],
+  "math212": [
+    {
+      "course": "math212",
+      "level": "2",
+      "year": "2025",
+      "crn": ["31091"],
+      "title": "Introduction to Real Analysis",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "MATH 142",
+      "description": "The theoretical underpinnings of calculus took many years to develop rigorously. This course provides insight into the basic techniques of real analysis in the familiar context of single-variable differential calculus. There is a focus on the proof techniques that have been developed to analyse classical analytic functions.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math243": [
+    {
+      "course": "math243",
+      "level": "2",
+      "year": "2025",
+      "crn": ["18323"],
+      "title": "Multivariable Calculus",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "(MATH 142, 151) or B+ or better in ENGR 122",
+      "description": "In order to apply calculus to many physical systems, its concepts have to be extended to higher dimensions. The course introduces vector-valued functions of one variable (curves in the plane and in space), real-valued functions of several variables, and vector fields, which are vector-valued functions of two or three variables. Integration over lines and surfaces, together with double and triple integrals, are defined, together with methods to solve them. Applications are used to motivate and demonstrate these methods.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math244": [
+    {
+      "course": "math244",
+      "level": "2",
+      "year": "2025",
+      "crn": ["18324"],
+      "title": "Ordinary Differential Equations",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "(MATH 142, 151) or (ENGR 121, 122)",
+      "description": "Ordinary Differential Equations (ODEs) have motivated a lot of mathematics, both for themselves and for their applications, particularly in the wider sciences. This course introduces ODEs, covering their classification, and various solution methods for both linear and nonlinear equations. Systems of ODEs are introduced, together with the linear algebra needed to solve them. The course also presents the Laplace transform and its use in solving ODEs.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math245": [
+    {
+      "course": "math245",
+      "level": "2",
+      "year": "2025",
+      "crn": ["30099"],
+      "title": "Computational Mathematics",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "ENGR 122 or ENGR 123 or (MATH 151 and (141 or 142))",
+      "description": "Combining mathematics with computational techniques allows us to study a wide variety of applications in science, for example, solving physics problems by approximating integrals and derivatives, and compressing digital images using singular-value decomposition. This course develops mathematical, numerical, and computational techniques for practical problems that utilise optimisation, simulation, interpolation, and approximation. Some previous experience in programming is highly desirable.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math251": [
+    {
+      "course": "math251",
+      "level": "2",
+      "year": "2025",
+      "crn": ["18325"],
+      "title": "Linear Algebra",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "MATH 151",
+      "description": "Linear algebra is a fundamental part of mathematics. This is a second course in linear algebra, focusing on more abstract representations and giving an axiomatic treatment of vector spaces. The course introduces the underlying concepts of linear algebra, including linear transformations, subspaces, isomorphisms, dimensions, eigenvectors, inner products, and diagonalisation. Applications are used to motivate and demonstrate these concepts.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math261": [
+    {
+      "course": "math261",
+      "level": "2",
+      "year": "2025",
+      "crn": ["18326"],
+      "title": "Groups and Graphs",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "MATH 161 or B+ or better in ENGR 123",
+      "description": "This course explores two fundamental mathematical structures: groups and graphs. Both have wide applications in mathematics, as well as in fields such as computer science, cryptography, physics, and chemistry. The course starts with basic group theory and explores permutations, matrices, and symmetries. The graph section uses an algorithmic lens to investigate graph complexity, study network flows, construct shortest paths, and find matchings in graphs.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math277": [
+    {
+      "course": "math277",
+      "level": "2",
+      "year": "2025",
+      "crn": ["19804"],
+      "title": "Mathematical Statistics",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "(MATH 142, 177) or B+ or better in both (ENGR 122, 123)",
+      "description": "Topics covered: a review of basic probability theory; discrete and continuous random variables; joint distributions of random variables; expectation, variance, covariance and moment generating functions; correlation and linear combinations of random variables; central limit theorem; maximum likelihood estimation; confidence intervals; hypothesis testing; linear regression; one-way analysis of variance. The statistical software R will be used.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math301": [
+    {
+      "course": "math301",
+      "level": "3",
+      "year": "2025",
+      "crn": ["3505"],
+      "title": "Partial Differential Equations",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "MATH 243, 244",
+      "description": "This course is an introduction to Partial Differential Equations (PDEs), including those of importance for the natural sciences. The course covers solution methods for linear PDEs, including the use of boundary values and initial values. The course develops Fourier series and Fourier transforms and discusses their use in solving PDEs, and also develops Green’s functions.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math309": [
+    {
+      "course": "math309",
+      "level": "3",
+      "year": "2025",
+      "crn": ["7528"],
+      "title": "Mathematical Logic",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "MATH 161, and 30 pts from 200-level MATH",
+      "description": "This course examines symbolic languages, which are a foundational pillar of mathematics as well as the basis of computer science. Their semantics and proof theory are studied, explaining the role of logic in describing mathematical structures and formalising reasoning about them. Topics covered include propositional logic, first-order logic of quantifiers and predicates, and the beginnings of model theory, including completeness and compactness theorems. Some computability theory is covered, culminating in Gödel's incompleteness theorem.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math311": [
+    {
+      "course": "math311",
+      "level": "3",
+      "year": "2025",
+      "crn": ["9591"],
+      "title": "Algebra",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "(MATH 251 or MATH 261) and 15 further 200 level MATH pts",
+      "description": "The abstraction of algebra to sets with extra structure has led to many important mathematical developments. The basic algebraic structures, groups, rings and fields, are the focus of this course, together with some of their applications, such as solving systems of polynomial equations. There is an emphasis on general concepts, such as subgroups, homomorphisms, and factorization. Some familiarity with groups is expected.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math317": [
+    {
+      "course": "math317",
+      "level": "3",
+      "year": "2025",
+      "crn": [],
+      "title": "Metric Spaces",
+      "points": "15",
+      "trimester": {},
+      "prerequisites": "MATH 211 or 212",
+      "description": "This course is an introduction to spaces with a generalised length function called a metric. Metric spaces are fundamental objects in modern analysis, featuring notions of convergence of sequences and continuity of functions in a very general framework.",
+      "restrictions": "MATH 312"
+    }
+  ],
+  "math318": [
+    {
+      "course": "math318",
+      "level": "3",
+      "year": "2025",
+      "crn": ["31093"],
+      "title": "Hilbert Spaces",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "MATH 212 and MATH 251",
+      "description": "This course extends the techniques of linear algebra and real analysis so that problems of an intrinsically infinite-dimensional nature can be studied. A Hilbert space is an inner product space with the analytic structure suitable for studying such problems. Hilbert spaces, and linear maps on them, are of interest to both mathematicians and physicists.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math321": [
+    {
+      "course": "math321",
+      "level": "3",
+      "year": "2025",
+      "crn": ["19910"],
+      "title": "Introduction to Applied Mathematics",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "MATH 243 and MATH 244",
+      "description": "Many practical problems can be modelled and analysed using differential equations. This course introduces some fundamental methods for such modelling and analysis. The course begins by developing techniques such as dimensional analysis and perturbation methods, and then applies them to solve problems including reaction kinetics, diffusion, and traffic flow.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math322": [
+    {
+      "course": "math322",
+      "level": "3",
+      "year": "2025",
+      "crn": [],
+      "title": "Applied Mathematics II",
+      "points": "15",
+      "trimester": {},
+      "prerequisites": "30 200-level MATH pts (not including MATH 261), or ENGR 222",
+      "description": "Two topics in applied mathematics, not including any taken by the same candidate in MATH 321 or MATH 323. Topics may include: Cartesian tensors and applications, seismology, classical mechanics, fluid mechanics, meteorology, fractals, quantum mechanics, special relativity.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math323": [
+    {
+      "course": "math323",
+      "level": "3",
+      "year": "2025",
+      "crn": [],
+      "title": "Mathematics for Earth Sciences",
+      "points": "15",
+      "trimester": {},
+      "prerequisites": "30 200-level MATH pts (not including MATH 261), or ENGR 222",
+      "description": "Two topics in applied mathematics, chosen from the following, and not including any taken by the same candidate in MATH 321 or MATH 322: fluid mechanics, Cartesian tensors and applications, differential equations for earth sciences, meteorology project, meteorology coursework, fractals, classical mechanics.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math324": [
+    {
+      "course": "math324",
+      "level": "3",
+      "year": "2025",
+      "crn": ["15668"],
+      "title": "Coding and Cryptography",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "MATH 251",
+      "description": "Encoding messages so that they can be transmitted robustly and efficiently, while being safe from eavesdroppers, is an important part of modern communication. This course starts with modern coding theory, introducing linear codes, coding bounds, perfect codes, and cyclic codes to develop codes that can deal with communication over a noisy channel. Moving on to cryptography, the course covers topics such as classical ciphers, one-way pads, Shannon’s Theorem, public key cryptography, one-way functions, the RSA cryptosystem, key distribution and digital signatures.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math335": [
+    {
+      "course": "math335",
+      "level": "3",
+      "year": "2025",
+      "crn": [],
+      "title": "Computability and Complexity",
+      "points": "15",
+      "trimester": {},
+      "prerequisites": "MATH 161, 15 pts from (MATH 211, 212, 251, 261); 15 further 200-level MATH pts or COMP 261",
+      "description": "The basic theory of the algorithmic content of mathematics: models of computation and their equivalence, including register machines, Turing machines, and partial recursive functions; computably enumerable sets and the fixed point theorem; basic notions of complexity theory, nondeterministic computation, and NP-completeness.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math353": [
+    {
+      "course": "math353",
+      "level": "3",
+      "year": "2025",
+      "crn": [],
+      "title": "Optimisation",
+      "points": "15",
+      "trimester": {},
+      "prerequisites": "MATH 142, 151; 15 pts from (MATH 243, 244, 251, 261); 15 further 200-level MATH pts",
+      "description": "A course in the theory, algorithms and applications of optimisation. Topics include linear programming, integer programming, and non-linear optimisation.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math361": [
+    {
+      "course": "math361",
+      "level": "3",
+      "year": "2025",
+      "crn": ["29085"],
+      "title": "Graph Theory",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "MATH 161, 30 200 level MATH pts",
+      "description": "Graphs provide an abstraction that enables many different systems to be modelled and analysed, from computer networks to disease spread. This course introduces graphs as mathematical objects and covers topics including: connectivity and Menger’s Theorem; colourings and Brooks’ Theorem; topological graph theory and Kuratowski’s Theorem; and Ramsey Theory.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math377": [
+    {
+      "course": "math377",
+      "level": "3",
+      "year": "2025",
+      "crn": ["19805"],
+      "title": "Probability and Random Processes",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "MATH 243; MATH 277 or STAT 232",
+      "description": "The course provides a firmer foundation in probability theory and an introduction to random processes. The topics include continuity of probability measures; Stieltjes integrals; almost sure convergence; conditional distributions and effects of conditioning; martingales in discrete time; Poisson point processes; compound Poisson processes; birth and death processes; renewal processes.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math381": [
+    {
+      "course": "math381",
+      "level": "3",
+      "year": "2025",
+      "crn": ["3512"],
+      "title": "Special Topic: Complex Analysis",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "(MATH 212 or MATH 243), 15 further 200 level MATH pts",
+      "description": "Complex analysis extends real analysis to functions of complex variables. This course covers the fundamentals of complex analysis, including the Cauchy-Riemann equations, holomorphic functions, harmonic functions, the Cauchy integral formula, power series, and the residue theorem. Applications include evaluating real integrals, a proof of the fundamental theorem of algebra, and solving 2D problems relating to steady temperature distribution, inviscid fluid flow and electrostatics.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math382": [
+    {
+      "course": "math382",
+      "level": "3",
+      "year": "2025",
+      "crn": [],
+      "title": "Special Topic",
+      "points": "15",
+      "trimester": {},
+      "prerequisites": "as for MATH 381",
+      "description": "_none_",
+      "restrictions": "_none_"
+    }
+  ],
+  "math142": [
+    {
+      "course": "math142",
+      "level": "1",
+      "year": "2025",
+      "crn": ["17160"],
+      "title": "Calculus 1B",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "MATH 141 or QUAN 111 or PHYS 101 or approved level of achievement in NCEA Level 3 Calculus or an equivalent background in mathematics.",
+      "description": "Integration looks at summing continuous variables, providing a way to define and compute areas and volumes, which are essential for many applications. This course develops integral calculus, including the view of integration as anti-differentiation, leading to the Fundamental Theorem of Calculus. Sequences and series are introduced, and functions are approximated using their Taylor polynomials. Techniques of integration are developed, including substitution and integration by parts. Differential equations are introduced, many of which arise from physical systems, and the course also introduces basic methods for solving them.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math151": [
+    {
+      "course": "math151",
+      "level": "1",
+      "year": "2025",
+      "crn": ["17161"],
+      "title": "Algebra",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "16 Achievement Standard credits NCEA Level 3 in Mathematics) or (12 Achievement Standard credits NCEA Level 3 Mathematics excluding the statistics standards 91580, 91581, 91582, 91583, 91584) or MATH 132",
+      "description": "Linear algebra is central to mathematics, and essential in science and engineering. This course introduces linear algebra, motivated by some of these applications, and maintaining a practical approach using fundamental mathematical objects such as matrices and vectors. Methods to solve systems of linear equations using matrices are introduced, as are eigenvectors, which can be used to characterise matrices amongst many other applications. The concept of an algebraic structure is introduced, as are complex numbers, which allow the solution of many equations that did not previously have solutions.",
+      "restrictions": "_none_"
+    }
+  ],
+  "stat193": [
+    {
+      "course": "stat193",
+      "level": "1",
+      "year": "2025",
+      "crn": ["1791", "11333", "4442", "6164", "17069"],
+      "title": "Statistics in Practice",
+      "points": "15",
+      "trimester": ["1", "1", "2", "2", "3"],
+      "prerequisites": "_none_",
+      "description": "An applied statistics course for students who will be advancing in other disciplines as well as those majoring in Statistics. It is particularly suitable if you are majoring in Biological Science, Geography, Health, Linguistics, Psychology, and Education, and if you are a BCom student. This course assumes no previous knowledge of statistics, but mathematics to Year 12 is preferred. Topics we will cover include data display and inference, estimation, confidence intervals and hypothesis testing, comparison of means, linear regression and correlation, and analysis of variance.",
+      "restrictions": "MATH 277, QUAN 102"
+    }
+  ],
+  "comp102": [
+    {
+      "course": "comp102",
+      "level": "1",
+      "year": "2025",
+      "crn": ["943", "28225"],
+      "title": "Introduction to Computer Program Design",
+      "points": "15",
+      "trimester": ["1", "3"],
+      "prerequisites": "_none_",
+      "description": "Today, most problems are solved using computers. An understanding of programming is needed to harness the full potential of computers. This course serves as an introduction to the foundational principles of programming utilising the high-level object-oriented programming language Java. You will progressively enhance your programming abilities through the creation of computer programs tailored for various applications. This course establishes the fundamental groundwork for all subsequent computer science and software engineering courses, fostering the development of programming skills applicable to a wide range of academic disciplines.",
+      "restrictions": "COMP 112"
+    }
+  ],
+  "comp103": [
+    {
+      "course": "comp103",
+      "level": "1",
+      "year": "2025",
+      "crn": ["945", "7223"],
+      "title": "Introduction to Data Structures and Algorithms",
+      "points": "15",
+      "trimester": ["2", "3"],
+      "prerequisites": "COMP 102 or 112",
+      "description": "This course focuses on the techniques for designing, building and analysing computer programs that deal with large collections of data. The course addresses techniques for programming with collections of data, and the data structures and algorithms needed to implement these collections. The course expands programming skills and provides an understanding of the principles of data abstraction, algorithm design, and the analysis of algorithms fundamental to computer science.",
+      "restrictions": "_none_"
+    }
+  ],
+  "comp132": [
+    {
+      "course": "comp132",
+      "level": "1",
+      "year": "2025",
+      "crn": ["30095"],
+      "title": "Programming for the Natural and Social Sciences",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "_none_",
+      "description": "This course addresses the fundamental programming skills required to process, transform, analyse and present data. The course will explore a range of kinds of data, kinds of analysis and kinds of visualisation that can be performed on the data, and give students expertise in a variety of programming techniques and tools to accomplish this analysis and visualisation. The practical assignments will enable students to develop programming skills that they will be able to apply in many different fields of study. The course does not assume any background in programming.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math161": [
+    {
+      "course": "math161",
+      "level": "1",
+      "year": "2025",
+      "crn": ["17162"],
+      "title": "Discrete Mathematics and Logic",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "16 Achievement Standard credits NCEA Level 3 in Mathematics) or (12 Achievement Standard credits NCEA Level 3 Mathematics excluding the statistics standards 91580, 91581, 91582, 91583, 91584) or MATH 132",
+      "description": "Logic underlies all of mathematics. This course introduces the basic notions of logic and discusses what makes some arguments good or valid, and others invalid. This leads to a definition of a mathematical proof, whereby the truth of mathematical statements is guaranteed. Other topics include sets, relations, functions, elementary counting principles, and an introduction to number theory. The second half of the course introduces the fundamental concepts of graph theory, which is the study of networks, which have applications from computing to disease transmission.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math177": [
+    {
+      "course": "math177",
+      "level": "1",
+      "year": "2025",
+      "crn": ["19803"],
+      "title": "Probability and Decision Modelling",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "Approved level of achievement in NCEA Level 3 Calculus or one of (ENGR 122, 123, MATH 141, QUAN 111) or equivalent background in mathematics.",
+      "description": "Heads or tails? That's fair, right? Is the coin fair though - and how could you check? How might you choose in a more complicated situation? This course gives you an introduction to probability models in Statistics and their use in good decision making. Concepts you will study include probability, random variables and their distributions, decision theory, model estimation using sampled data, and tests for checking fitted models. Bad decisions follow from badly-fitting models. This course is needed for a mathematical pathway in Statistics, and for Actuarial Science. To make good decisions using probability, choose this course!",
+      "restrictions": "_none_"
+    }
+  ],
+  "math244": [
+    {
+      "course": "math244",
+      "level": "2",
+      "year": "2025",
+      "crn": ["18324"],
+      "title": "Ordinary Differential Equations",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "(MATH 142, 151) or (ENGR 121, 122)",
+      "description": "Ordinary Differential Equations (ODEs) have motivated a lot of mathematics, both for themselves and for their applications, particularly in the wider sciences. This course introduces ODEs, covering their classification, and various solution methods for both linear and nonlinear equations. Systems of ODEs are introduced, together with the linear algebra needed to solve them. The course also presents the Laplace transform and its use in solving ODEs.",
+      "restrictions": "_none_"
+    }
+  ],
+  "comp261": [
+    {
+      "course": "comp261",
+      "level": "2",
+      "year": "2025",
+      "crn": ["18314"],
+      "title": "Algorithms and Data Structures",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "COMP 103, ENGR 123 or MATH 161",
+      "description": "This course covers a range of algorithms and data structures building on the fundamental structures and algorithms from COMP 103. The major areas covered are: graph algorithms, graphics algorithms and advanced data structures. This course takes a practical approach focusing on the implementation of a wide variety of algorithms.",
+      "restrictions": "INFO 205"
+    }
+  ],
+  "data202": [
+    {
+      "course": "data202",
+      "level": "2",
+      "year": "2025",
+      "crn": ["31058"],
+      "title": "Data Management and Programming",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "one of (COMP 102, 112, 132, INFO 102)",
+      "description": "Explore the practical side of data management in this course designed for those working with data sources. You will get hands-on experience in programming and data management using a high-level language and SQL. You will build confidence in skills such as web scraping, data transformation, data cleaning, and the creation of data summaries and visualisations.",
+      "restrictions": "_none_"
+    }
+  ],
+  "stat292": [
+    {
+      "course": "stat292",
+      "level": "2",
+      "year": "2025",
+      "crn": ["18331"],
+      "title": "Applied Statistics",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "STAT 193 or one of (ENGR 123, QUAN 102) or a comparable background in Statistics.",
+      "description": "Modern science is heavily data-driven, and statistical methods are instrumental in producing evidence- based conclusions. This course covers applied statistical methods that are widely used across the biological, social and physical sciences. You will examine chi-square tests, t- tests, analysis of variance and non-parametric tests as a means to assess the evidence for differences between groups; and you will fit linear regression, logistic regression, and loglinear models to explore relationships between variables. Relevant examples are used throughout to illustrate the statistical methods considered. The statistical computing package R is used and demonstrated, although no previous programming experience is required.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math243": [
+    {
+      "course": "math243",
+      "level": "2",
+      "year": "2025",
+      "crn": ["18323"],
+      "title": "Multivariable Calculus",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "(MATH 142, 151) or B+ or better in ENGR 122",
+      "description": "In order to apply calculus to many physical systems, its concepts have to be extended to higher dimensions. The course introduces vector-valued functions of one variable (curves in the plane and in space), real-valued functions of several variables, and vector fields, which are vector-valued functions of two or three variables. Integration over lines and surfaces, together with double and triple integrals, are defined, together with methods to solve them. Applications are used to motivate and demonstrate these methods.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math245": [
+    {
+      "course": "math245",
+      "level": "2",
+      "year": "2025",
+      "crn": ["30099"],
+      "title": "Computational Mathematics",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "ENGR 122 or ENGR 123 or (MATH 151 and (141 or 142))",
+      "description": "Combining mathematics with computational techniques allows us to study a wide variety of applications in science, for example, solving physics problems by approximating integrals and derivatives, and compressing digital images using singular-value decomposition. This course develops mathematical, numerical, and computational techniques for practical problems that utilise optimisation, simulation, interpolation, and approximation. Some previous experience in programming is highly desirable.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math251": [
+    {
+      "course": "math251",
+      "level": "2",
+      "year": "2025",
+      "crn": ["18325"],
+      "title": "Linear Algebra",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "MATH 151",
+      "description": "Linear algebra is a fundamental part of mathematics. This is a second course in linear algebra, focusing on more abstract representations and giving an axiomatic treatment of vector spaces. The course introduces the underlying concepts of linear algebra, including linear transformations, subspaces, isomorphisms, dimensions, eigenvectors, inner products, and diagonalisation. Applications are used to motivate and demonstrate these concepts.",
+      "restrictions": "_none_"
+    }
+  ],
+  "spce201": [
+    {
+      "course": "spce201",
+      "level": "2",
+      "year": "2025",
+      "crn": ["36016"],
+      "title": "Our Dynamic Space Neighbourhood",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "SPCE 101; one of (SPCE 102, PHYS 132); one of (COMP 102, 112, 132)",
+      "description": "The course starts with introductory orbital mechanics, rocketry, the physics of space-related heat and electromagnetic energy through to the Sun and its violent solar weather. Then, through energy transfer in the Earth’s atmosphere the course explores climate change, remote sensing concepts, monitoring habitat from space and applications to preserving taonga. The course also discusses the practical and ethical issues of terraforming on Mars and possibilities for extra-terrestrial life. Discussions and readings around the unifying and divisionary social and political uses of orbiting technology aid the students to see beyond the science and technology of space.",
+      "restrictions": "_none_"
+    }
+  ],
+  "comp312": [
+    {
+      "course": "comp312",
+      "level": "3",
+      "year": "2025",
+      "crn": [],
+      "title": "Simulation and Stochastic Models",
+      "points": "15",
+      "trimester": {},
+      "prerequisites": "one course from (COMP 102, 112, 132, DATA 202); one course from (ENGR 123, MATH 177, 277, STAT 292), 15 further 200-level COMP, DATA, MATH, NWEN, STAT or SWEN pts;",
+      "description": "Simulation and modelling of stochastic systems, covering examples from Operations Research and Computer Science, including queues, networks and computer systems. Design, analysis and validation of simulation experiments. Previous experience with computer programming is required before starting this course. Co-taught with DATA 304.",
+      "restrictions": "_none_"
+    }
+  ],
+  "math301": [
+    {
+      "course": "math301",
+      "level": "3",
+      "year": "2025",
+      "crn": ["3505"],
+      "title": "Partial Differential Equations",
+      "points": "15",
+      "trimester": ["1"],
+      "prerequisites": "MATH 243, 244",
+      "description": "This course is an introduction to Partial Differential Equations (PDEs), including those of importance for the natural sciences. The course covers solution methods for linear PDEs, including the use of boundary values and initial values. The course develops Fourier series and Fourier transforms and discusses their use in solving PDEs, and also develops Green’s functions.",
+      "restrictions": "_none_"
+    }
+  ],
+  "data302": [
+    {
+      "course": "data302",
+      "level": "3",
+      "year": "2025",
+      "crn": [],
+      "title": "Machine Learning Techniques for Data Science",
+      "points": "15",
+      "trimester": {},
+      "prerequisites": "DATA 201, DATA 202",
+      "description": "This course introduces a range of machine learning techniques of importance in Data Science, and gives students experience in using modern software libraries for implementing machine learning pipelines. Topics will include machine learning techniques for both supervised and unsupervised learning, including neural networks, and the design of machine learning pipelines.",
+      "restrictions": "AIML 231, COMP 309"
+    }
+  ],
+  "math321": [
+    {
+      "course": "math321",
+      "level": "3",
+      "year": "2025",
+      "crn": ["19910"],
+      "title": "Introduction to Applied Mathematics",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "MATH 243 and MATH 244",
+      "description": "Many practical problems can be modelled and analysed using differential equations. This course introduces some fundamental methods for such modelling and analysis. The course begins by developing techniques such as dimensional analysis and perturbation methods, and then applies them to solve problems including reaction kinetics, diffusion, and traffic flow.",
+      "restrictions": "_none_"
+    }
+  ],
+  "data301": [
+    {
+      "course": "data301",
+      "level": "3",
+      "year": "2025",
+      "crn": ["32011"],
+      "title": "Data Science in Practice",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "DATA 201, one of (DATA 202, SCIE 201 in 2017-2018), DATA 303",
+      "description": "Take your data science skills to the next level with our capstone course. Dive into interactive displays, infographics, and dashboards equipped with mathematical modelling tools and coding skills. Sharpen your communication and reporting abilities through visualisation. Explore the social and ethical aspects of data science.",
+      "restrictions": "_none_"
+    }
+  ],
+  "spce102": [
+    {
+      "course": "spce102",
+      "level": "1",
+      "year": "2025",
+      "crn": ["35041"],
+      "title": "Introduction to the Universe",
+      "points": "15",
+      "trimester": ["2"],
+      "prerequisites": "_none_",
+      "description": "An introduction to astronomy and astrophysics for students from all backgrounds. We will explore objects from the relatively small and nearby, in our Solar System, to the largest and most distant objects in the Universe: galaxies and galaxy clusters. You will learn about the Big Bang origin and evolution of the expanding Universe, and along the way be introduced to some of the most extreme places and phenomena known - neutron stars, black holes and supernovae. Coming back down to Earth, you will discuss dark skies, Māori astronomy, and waka navigation.",
+      "restrictions": "PHYS 132"
+    }
+  ],
+  "stat193": [
+    {
+      "course": "stat193",
+      "level": "1",
+      "year": "2024",
+      "crn": ["1791", "11333", "4442", "6164", "17069"],
+      "title": "Statistics in Practice",
+      "points": "15",
+      "trimester": ["1", "1", "2", "2", "3"],
+      "restrictions": "MATH 277, QUAN 102",
+      "description": "An applied statistics course for students who will be advancing in other disciplines as well as those majoring in Statistics. It is particularly suitable if you are majoring in Biological Science, Geography, Health, Linguistics, Psychology, and Education, and if you are a BCom student. This course assumes no previous knowledge of statistics, but mathematics to Year 12 is preferred. Topics we will cover include data display and inference, estimation, confidence intervals and hypothesis testing, comparison of means, linear regression and correlation, and analysis of variance.",
+      "prerequisites": "_none_"
+    }
+  ],
+  "phys101": [
+    {
+      "course": "phys101",
+      "level": "1",
+      "year": "2024",
+      "crn": ["35064"],
+      "title": "Introduction to Physics",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "PHYS 114, PHYS 115, ENGR 141",
+      "description": "PHYS 101 is designed for students who want a university level introduction to physics. It will serve students majoring in physics without requiring prior knowledge in physics. The course will also serve any (science or otherwise) student, interested in general ideas of physics as a way of understanding the (physical) world around us. The course introduces basic concepts as well as worked examples. Exercises and assignments will reinforce key concepts. Topics covered are: - mechanics (energy, Newton’s laws, gravity) – waves – thermodynamics and required math concepts (limits, derivatives, functions).",
+      "prerequisites": "16 Achievement Standard credits NCEA Level 3 in Mathematics) or (12 Achievement Standard credits NCEA Level 3 Mathematics excluding the statistics standards 91580, 91581, 91582, 91583, 91584) or MATH 132"
+    }
+  ],
+  "phys145": [
+    {
+      "course": "phys145",
+      "level": "1",
+      "year": "2024",
+      "crn": ["35066"],
+      "title": "Practical Skills for Scientists: Applications in Physics",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "PHYS 114, PHYS 115",
+      "description": "PHYS 145 is designed to teach basic computing, data analysis, physics, and mathematics transferrable skills and their applications to practical physics problems. It will serve students majoring in physics and is also open to any (science or otherwise) student, interested in a hands-on experience of physics. The course will introduce skills required for experimental physics in laboratory environments and use them to explore physics phenomena in optics, mechanics, modern physics and thermodynamics.",
+      "prerequisites": "16 Achievement Standard credits NCEA Level 3 in Mathematics) or (12 Achievement Standard credits NCEA Level 3 Mathematics excluding the statistics standards 91580, 91581, 91582, 91583, 91584) or MATH 132"
+    }
+  ],
+  "spce101": [
+    {
+      "course": "spce101",
+      "level": "1",
+      "year": "2024",
+      "crn": ["35040"],
+      "title": "Introduction to Space Science",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "_none_",
+      "description": "This course introduces space science and its applications. From the space race through to the effects of inter-planetary space travel on future astronauts, and the historic significance of the heavens to humankind in Aotearoa and globally. Introductory and accessible physics, astronomy, problem-solving and discussion aid the student’s learning experience in this course, and into the rest of the Space Science programme.",
+      "prerequisites": "_none_"
+    }
+  ],
+  "engr141": [
+    {
+      "course": "engr141",
+      "level": "1",
+      "year": "2024",
+      "crn": ["30094"],
+      "title": "Engineering Science",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "PHYS 101, PHYS 114, PHYS 115",
+      "description": "ENGR 141 deals with scientific topics relevant to Engineering. Topics will include forms and use of energy, Newton’s laws of motion, gravity, waves, thermodynamics and required math concepts (limits, derivatives, functions). Students will obtain an appreciation for quantitative scientific reasoning and the role of fundamental physical laws in governing human energy use.",
+      "prerequisites": "(16 Achievement Standard credits NCEA Level 3 in Mathematics) or (12 Achievement Standard credits NCEA Level 3 Mathematics excluding the statistics standards 91580, 91581, 91582, 91583, 91584) or MATH 132"
+    }
+  ],
+  "phys142": [
+    {
+      "course": "phys142",
+      "level": "1",
+      "year": "2024",
+      "crn": ["35065"],
+      "title": "Calculus-based physics",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "PHYS 114, PHYS 115, ENGR 142",
+      "description": "PHYS 142 covers topics in electrostatics and will also cover mechanics (circular and harmonic motion) and required math concepts (differential equations and integration).",
+      "prerequisites": "PHYS 101 or ((MATH 141 or approved level of achievement in NCEA Level 3 Calculus1)  and (PHYS 131 or physics standard AS 91524 “mechanical systems” with excellence))"
+    }
+  ],
+  "spce102": [
+    {
+      "course": "spce102",
+      "level": "1",
+      "year": "2024",
+      "crn": ["35041"],
+      "title": "Introduction to the Universe",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "PHYS 132",
+      "description": "An introduction to astronomy and astrophysics for students from all backgrounds. We will explore objects from the relatively small and nearby, in our Solar System, to the largest and most distant objects in the Universe: galaxies and galaxy clusters. You will learn about the Big Bang origin and evolution of the expanding Universe, and along the way be introduced to some of the most extreme places and phenomena known - neutron stars, black holes and supernovae. Coming back down to Earth, you will discuss dark skies, Māori astronomy, and waka navigation.",
+      "prerequisites": "_none_"
+    }
+  ],
+  "engr142": [
+    {
+      "course": "engr142",
+      "level": "1",
+      "year": "2024",
+      "crn": ["27045"],
+      "title": "Engineering Physics for Electronics and Computer Systems",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "PHYS 115, 142",
+      "description": "Physics theory and practice relevant to electronics and computer systems engineering. Topics covered will include electrostatics (charge, force, field, potential), magnetic field and force, DC and AC circuits, electromagnetic induction and other selected topics. Lectures, assignments and laboratory work will all focus on the application of physics to engineering situations.",
+      "prerequisites": "either ENGR 141 and (ENGR 121 or MATH 141) or approved levels of achievement in NCEA Level 3 Physics and Calculus or equivalent"
+    }
+  ],
+  "phys243": [
+    {
+      "course": "phys243",
+      "level": "2",
+      "year": "2024",
+      "crn": ["33242"],
+      "title": "Classical Mechanics and Relativity",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "PHYS 221, 223; either of PHYS 260, 261 as determined by the Head of School",
+      "description": "An introduction to classical mechanics and relativity at an intermediate level, including Lagrangian mechanics, Hamiltonian mechanics, special relativity and a conceptual introduction to general relativity.",
+      "prerequisites": "(MATH 142, 151) or B+ or better in ENGR 122; one of (PHYS 101, 114, 142, ENGR 141)"
+    }
+  ],
+  "phys245": [
+    {
+      "course": "phys245",
+      "level": "2",
+      "year": "2024",
+      "crn": ["33243"],
+      "title": "Methods of Experimental Physics",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "PHYS 217; either of PHYS 260, 261 as determined by the Head of School",
+      "description": "PHYS 245 will focus on skills required for experimental physics in laboratory environments. This will include planning of experimental designs and the processing, interpretation, documentation and presentation of experimental results. The course will also introduce basic concepts of programming and numerical physics.",
+      "prerequisites": "(MATH 142 (or B+ or better in MATH 141), MATH 151) or B+ or better in ENGR 122; (PHYS 114, 115) or (PHYS 145) or (ENGR 141, 142);"
+    }
+  ],
+  "spce245": [
+    {
+      "course": "spce245",
+      "level": "2",
+      "year": "2024",
+      "crn": ["36017"],
+      "title": "Experiments in Space Science",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "_none_",
+      "description": "Through hands-on experimentation you will explore physical phenomena relevant to space exploration and usage. This includes topics such as seeing how light and high-energy radiation interact with matter, how rockets deplete their fuel reserves, or analysing data from meteors entering the Earth's atmosphere. With guest lectures and projects you will also learn some of the rich cultural associations that Māori and Pasifika people have with the night sky. This course will help you develop transferrable skills in scientific writing and presentation, in the exciting context of space.",
+      "prerequisites": "one of (SPCE 101, 102, PHYS 132); one of (COMP 102, 112, 132)"
+    }
+  ],
+  "phys241": [
+    {
+      "course": "phys241",
+      "level": "2",
+      "year": "2024",
+      "crn": ["33240"],
+      "title": "Quantum Mechanics and Kinetic Theory",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "PHYS 221, 223; either of PHYS 260, 261 as determined by the Head of School",
+      "description": "PHYS 241 will provide students with an introductory-level understanding of quantum mechanics and its applications. The course will also introduce students to the microscopic description of temperature, pressure and other properties of matter based on kinetic theory.",
+      "prerequisites": "(MATH 142, 151) or B+ or better in ENGR 122; PHYS 142 or 114, PHYS 115"
+    }
+  ],
+  "phys242": [
+    {
+      "course": "phys242",
+      "level": "2",
+      "year": "2024",
+      "crn": ["33241"],
+      "title": "Electromagnetism I",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "PHYS 222; either of PHYS 260, 261 as determined by the Head of School",
+      "description": "PHYS 242 will provide a comprehensive foundation in electromagnetic theory using vector calculus, from the laws of electrostatics and magnetostatics to the time-varying Maxwell equations. The course will also introduce applications of these concepts to electrical circuits, as well as electromagnetic waves, interference and diffraction.",
+      "prerequisites": "(MATH 142, 151) or B+ or better in ENGR 122; (PHYS 142, 145) or (PHYS 114, 115) or (ENGR 141, 142)"
+    }
+  ],
+  "spce201": [
+    {
+      "course": "spce201",
+      "level": "2",
+      "year": "2024",
+      "crn": ["36016"],
+      "title": "Our Dynamic Space Neighbourhood",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "_none_",
+      "description": "The course starts with introductory orbital mechanics, rocketry, the physics of space-related heat and electromagnetic energy through to the Sun and its violent solar weather. Then, through energy transfer in the Earth’s atmosphere the course explores climate change, remote sensing concepts, monitoring habitat from space and applications to preserving taonga. The course also discusses the practical and ethical issues of terraforming on Mars and possibilities for extra-terrestrial life. Discussions and readings around the unifying and divisionary social and political uses of orbiting technology aid the students to see beyond the science and technology of space.",
+      "prerequisites": "SPCE 101; one of (SPCE 102, PHYS 132); one of (COMP 102, 112, 132)"
+    }
+  ],
+  "phys305": [
+    {
+      "course": "phys305",
+      "level": "3",
+      "year": "2024",
+      "crn": ["1199"],
+      "title": "Thermal and Statistical Physics",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "either of PHYS 360, 361 as determined by the Head of School",
+      "description": "A development of statistical mechanics, thermodynamics, and heat propagation. The Fermi-Dirac, Bose-Einstein, and classical distributions are derived and illustrated with examples taken from thermal radiation, heat engines, solid state physics, astrophysics, and chemical physics. Concepts of nuclear decays as probabilistic processes will be developed and applied to the early universe and thermonuclear reactions.",
+      "prerequisites": "PHYS 241 (or 223); one of (MATH 200-299, NWEN 241, STAT 292, COMP 261)"
+    }
+  ],
+  "phys307": [
+    {
+      "course": "phys307",
+      "level": "3",
+      "year": "2024",
+      "crn": ["1201"],
+      "title": "Quantum Physics",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "either of PHYS 360, 361 as determined by the Head of School",
+      "description": "An advanced course on quantum mechanics based on Dirac bra-ket notation, covering the fundamentals as well as current applications.",
+      "prerequisites": "(PHYS 241 and 242) or (PHYS 221 and 222); one of (MATH 200-299, NWEN 241, STAT 292, COMP 261)"
+    }
+  ],
+  "phys304": [
+    {
+      "course": "phys304",
+      "level": "3",
+      "year": "2024",
+      "crn": ["1198"],
+      "title": "Electromagnetism and Wave Optics",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "either of PHYS 360, 361 as determined by the Head of School",
+      "description": "The course presents Maxwell’s theory of classical electromagnetism, with full use of vector calculus in cartesian, cylindrical and spherical coordinates. The course builds upon electric and magnetic phenomena introduced in PHYS 115 and PHYS 242, and includes the response of materials to static and time-varying electromagnetic fields. The derivation of electromagnetic waves and their polarisation properties is followed by modern applications such as waveguides and multilayer optics.",
+      "prerequisites": "PHYS 242 (or 222 and 223); one of (MATH 200-299, NWEN 241, STAT 292, COMP 261)"
+    }
+  ],
+  "phys345": [
+    {
+      "course": "phys345",
+      "level": "3",
+      "year": "2024",
+      "crn": ["34082"],
+      "title": "Advanced Methods of Experimental Physics",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "either of PHYS 360, 361 as determined by the Head of School",
+      "description": "PHYS 345 will extend the skills and knowledge acquired at 200 level and explore experimental and numerical methods relevant to modern physics and data acquisition/analysis. Common physics laboratory equipment and computational methods (for example vacuum systems, spectrometers or software tools) will be used for more complex experimental set ups data processing. The course will extend guidance for good laboratory practice including the planning of experimental designs, data processing, interpretation, documentation and presentation of experimental results.",
+      "prerequisites": "15 pts from (PHYS 114, 115, 142, ENGR 142) and 15 pts from (PHYS 245, CHEM 205-206, EEEN 201-204) or (MATH 243 and one of PHYS 221-223)"
+    }
+  ],
+  
+  "spce301": [
+    {
+      "course": "spce301",
+      "level": "3",
+      "year": "2024",
+      "crn": ["TBA"],
+      "title": "Challenges and Solutions for Space Systems",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "_none_",
+      "description": "In this course you will put together your knowledge of space science to design a mission and write a proposal for the mission.",
+      "prerequisites": "SPCE 201; SPCE 245 or PHYS 245"
+    }
+  ],
+  "spce345": [
+    {
+      "course": "spce345",
+      "level": "3",
+      "year": "2024",
+      "crn": ["TBA"],
+      "title": "Advanced Experiments in Space Science",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "_none_",
+      "description": "Advanced experimental methods in space science that build up on your skills from SPCE 245, from hands-on experiments to interpreting, analysing and presenting data.",
+      "prerequisites": "SPCE 245 or PHYS 245"
+    }
+  ],
+  "spce360": [
+    {
+      "course": "spce360",
+      "level": "3",
+      "year": "2024",
+      "crn": ["TBA"],
+      "title": "Topics in Space Science",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "_none_",
+      "description": "This course equips you with the fundamental skills and knowledge required to extract meaningful information from Earth observation data. You will learn data acquisition, processing, interpretation, and analysis using a project-based approach. Topics covered include image classification, spectral analysis, and change detection among others.",
+      "prerequisites": "SPCE 201; SPCE 245 or PHYS 245"
+    }
+  ],
+  "chem113": [
+    {
+      "course": "chem113",
+      "level": "1",
+      "year": "2024",
+      "crn": ["17147"],
+      "title": "Concepts of Chemistry",
+      "points": "15",
+      "trimester": ["1"],
+      "restrictions": "CHEM 114, 115, 121, 122",
+      "description": "CHEM 113 investigates electronic structures and properties of atoms, bonding and periodic trends. This knowledge will be applied to chemical processes including equilibria, redox reactions, transformations of acids and bases and organic reactions leading to an understanding why reactions occur. You will study the properties of organic compounds including nomenclature, isomerism, and the identification and reactivity of organic functional groups.",
+      "prerequisites": "_none_"
+    }
+  ],
+  "chem121": [
+    {
+      "course": "chem121",
+      "level": "1",
+      "year": "2024",
+      "crn": ["35059"],
+      "title": "Chemistry of Life",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "CHEM 114",
+      "description": "CHEM 121 is designed for you to understand fundamental chemistry and how it is applied to the biological sciences. This course will cover core chemistry topics including principles of atomic and molecular structure, chemical bonding and reactivity, thermodynamics and kinetics. You will explore the application of chemistry in biologically relevant systems.",
+      "prerequisites": "CHEM 113 or 16 NCEA Level 3 Achievement Standard credits in Chemistry including 2 external standards, or equivalent background"
+    }
+  ],
+  "chem122": [
+    {
+      "course": "chem122",
+      "level": "1",
+      "year": "2024",
+      "crn": ["35060"],
+      "title": "Chemistry of Matter, Energy and the Environment",
+      "points": "15",
+      "trimester": ["2"],
+      "restrictions": "_none_",
+      "description": "CHEM 122 considers the chemical structure and properties of matter and uses this knowledge to explore the energetics of chemical processes and how this relates to the modern energy landscape. You will then apply this knowledge to investigate the chemistry of environmental systems. A central theme that is embedded within all topics is how chemical technologies can be used for our sustainable future.",
+      "prerequisites": "CHEM 113 or 16 NCEA Level 3 Achievement Standard credits in Chemistry including two external standards, or equivalent background; MATH 132 or 12 Achievement Standard credits NCEA Level 3 Mathematics including one of 91575, 91577, 91578 or 91579"
+    }
+  ],
+  "chem191": [
+    {
+      "course": "chem191",
+      "level": "1",
+      "year": "2024",
+      "crn": ["23006"],
+      "title": "Introductory Chemistry",
+      "points": "15",
+      "trimester": ["3"],
+      "restrictions": "CHEM 113, 114, 121, 122",
+      "description": "This summer bridging course provides basic chemical concepts and laboratory skills as a preparation for the study of chemistry at university level. It is designed for those with little or no background in chemistry or to be a refresher course for those who have studied chemistry in the past. In this course you will study the big ideas of science and chemistry, explore the fundamental building blocks of matter, and the connections between energy and reactions. You will also investigate these concepts whilst building your practical skills over a three day block in the laboratory.",
+      "prerequisites": "_none_"
+    }
+  ],
+  "chem207": [
+    {
+      "course": "chem207",
+      "level": "2",
+      "year": "2024",
+      "crn": ["36108"],
+      "title": "Experimental Chemistry and Spectroscopy",
+      "points": "20",
+      "trimester": ["2"],
+      "restrictions": "CHEM 205 or 206",
+      "description": "Chemistry is a science embedded within the physical world. In this practical, laboratory-based course, you will gain hands-on experience in modern chemical experimental approaches. You will develop skills in safe chemical handling, using and analysing instrumental data, and will link macroscopic observation with the microscopic world of chemicals. Additionally, workshops and computer simulations will supplement your learning in how to interpret complex data patters to identify molecules and their behaviours at the atomic scale.",
+      "prerequisites": "15 points from CHEM 121, 122 (or 114, 115)"
+    }
+  ],
+  "chem208": [
+    {
+      "course": "chem208",
+      "level": "2",
+      "year": "2024",
+      "crn": ["36109"],
+      "title": "Chemistry of Life: Organic, Biomolecular and Medicinal Chemistry",
+      "points": "20",
+      "trimester": ["1"],
+      "restrictions": "CHEM 201",
+      "description": "Explore the structure and reactivity of organic and biomolecular compounds pertinent to metabolic processes and medicines. You will learn about molecular structure, reaction mechanisms, and spectroscopy, and the application of these concepts to the chemistry of alkene, carbonyl, alkyl, and aromatic compounds. The relevance of this chemistry to drug development and understanding the molecular foundations of living systems will be exemplified.",
+      "prerequisites": "15 points from CHEM 121 (or 114);"
+    }
+  ],
+  "chem209": [
+    {
+      "course": "chem209",
+      "level": "2",
+      "year": "2024",
+      "crn": ["TBC"],
+      "title": "Special Topic",
+      "points": "20",
+      "trimester": ["TBC"],
+      "restrictions": "_none_",
+      "description": "Special topic to be advised.",
+      "prerequisites": "15 points from CHEM 121, 122 (or 114)"
+    }
+  ],
+  "chem210": [
+    {
+      "course": "chem210",
+      "level": "2",
+      "year": "2024",
+      "crn": ["36111"],
+      "title": "Chemistry: Matter and Reactivity",
+      "points": "20",
+      "trimester": ["2"],
+      "restrictions": "CHEM 202 or 203",
+      "description": "Explore key topics for understanding chemical systems; from molecules to materials, their reactions, changes and transformations.  Gain a fundamental ramework for how and why molecules/materials exist in the forms they do.  Explore how energy and light are important to chemical systems and chemical reactivity.  Understand the reactions molecules/materials undergo, and the reasons, dynamics and 'why' of chemical change. Real-world examples illustrate chemical applications.",
+      "prerequisites": "CHEM 122 (or 114);"
+    }
+  ],
+  "chem307": [
+    {
+      "course": "chem307",
+      "level": "3",
+      "year": "2024",
+      "crn": ["36112"],
+      "title": "Advanced Experimental Techniques",
+      "points": "20",
+      "trimester": ["1"],
+      "restrictions": "CHEM 305 or CHEM 306",
+      "description": "Refine and expand your experimental and computational skills, exploring practical aspects of chemistry. Choose to build techniques across the breadth of chemistry or focus on medicinal chemistry related areas (depending on your individual interests and background). You will develop synthetic, computational and instrumental analysis skills, and investigate principles of measurement. You will also develop communication skills through the presentation of technical information and data in written, digital and oral formats.",
+      "prerequisites": "CHEM 207 (or one of CHEM 205, 206)"
+    }
+  ],
+  "chem308": [
+    {
+      "course": "chem308",
+      "level": "3",
+      "year": "2024",
+      "crn": ["TBC"],
+      "title": "Chemistry of Life: Molecules and Mechanisms",
+      "points": "20",
+      "trimester": ["TBC"],
+      "restrictions": "CHEM 301",
+      "description": "Explore the structure and reactivity of organic compounds. You will learn about molecular tructure and reactivity through spectroscopy, reactions of carbohydrate compounds, pericyclic chemistry, mechanistic principles and retrosynthesis.",
+      "prerequisites": "CHEM 208 (or 201);"
+    }
+  ],
+  "chem309": [
+    {
+      "course": "chem309",
+      "level": "3",
+      "year": "2024",
+      "crn": ["36114"],
+      "title": "Chemical Biology and Medicinal Chemistry",
+      "points": "20",
+      "trimester": ["2"],
+      "restrictions": "_none_",
+      "description": "Explore the use of chemical tools for the study of biochemical pathways and the development of pharmaceutical drugs. Topics will include the design and synthesis of chemical probes, principles of medicinal chemistry, chemical biology, biosynthesis and an introduction to synthetic strategy.",
+      "prerequisites": "CHEM 208 (or 201)"
+    }
+  ],
+  "chem310": [
+    {
+      "course": "chem310",
+      "level": "3",
+      "year": "2024",
+      "crn": ["36115"],
+      "title": "Reactivity, Molecules and Materials",
+      "points": "20",
+      "trimester": ["1"],
+      "restrictions": "any of CHEM 302, 303 or CHEM 311, 312 in 2024",
+      "description": "Explore the structure and reactivity of molecules and materials. You will learn about molecular structures, material structures, and their reactivities, properties and applications. The course discusses structure-property relationships as a foundation towards molecular reactivities, and materials applications in advanced technologies.",
+      "prerequisites": "CHEM 210 or (CHEM 202 and CHEM 203)"
+    }
+  ],
+  "chem311": [
+    {
+      "course": "chem311",
+      "level": "3",
+      "year": "2024",
+      "crn": ["36116"],
+      "title": "Special Topic: Chemistry of Materials",
+      "points": "20",
+      "trimester": ["1"],
+      "restrictions": "CHEM 222, CHEM 302, 322, 341",
+      "description": "This course will enable students that lack the full prerequisites for CHEM 322 to do the inorganic and materials sections of CHEM 322, in combination with a directed individual study component. The course explores the structure and reactivity of molecules and materials. You will learn about molecular structures, material structures, and their properties and applications. The course discusses structure-property relationships, and materials applications in advanced technologies.",
+      "prerequisites": "CHEM 202;"
+    }
+  ],
+  "chem312": [
+    {
+      "course": "chem312",
+      "level": "3",
+      "year": "2024",
+      "crn": ["36117"],
+      "title": "Special Topic: Chemical Reactivity of Materials",
+      "points": "20",
+      "trimester": ["1"],
+      "restrictions": "CHEM 222, CHEM 302, 322",
+      "description": "This course will enable students that lack the full prerequisites for CHEM 322 to do the reactivity and materials sections of CHEM 322, in combination with a directed individual study component. The course explores the structure and reactivity of molecules and materials. You will learn about molecular structures, material structures, and their properties and applications. The course discusses structure-property relationships as a foundation towards molecular reactivities, and materials applications in advanced technologies.",
+      "prerequisites": "CHEM 203;"
+    }
+  ]
+}

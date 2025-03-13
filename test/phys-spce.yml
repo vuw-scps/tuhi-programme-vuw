@@ -1,0 +1,62 @@
+Y1:
+  T1:
+    - id: "phys145"
+      core: true
+    - id: "phys101"
+      core: false
+      footnote: "\\ may be required for PHYS142/MATH142"
+    - id: "spce101"
+      core: true
+    - id: "comp102"
+      core: false
+  T2:
+    - id: "phys142"
+      core: true
+    - id: "math142"
+      core: false
+    - id: "spce102"
+      core: true
+    - id: "math151"
+      core: false
+
+Y2:
+  T1:
+    - id: "phys243"
+      core: true
+    - id: "phys245"
+      core: true
+      footnote: "or SPCE245: Experiments in Space Science"
+    - id: "aiml231"
+      core: false
+    - id: "math244"
+      core: false
+  T2:
+    - id: "phys241"
+      core: true
+    - id: "phys242"
+      core: true
+    - id: "spce201"
+      core: true
+    - id: "geog215"
+      core: false
+
+Y3:
+  T1:
+    - id: "phys305"
+      core: true
+    - id: "phys307"
+      core: true
+    - id: "spce301"
+      core: true
+    - id: "spce360"
+      core: false
+      footnote: "\\ or SCIS311: Science Communication"
+  T2:
+    - id: "phys304"
+      core: true
+    - id: "phys345"
+      core: true
+    - id: "geog315"
+      core: false
+    - id: "math321"
+      core: false

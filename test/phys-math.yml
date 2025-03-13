@@ -1,0 +1,59 @@
+Y1:
+  T1:
+    - id: "phys145"
+      core: true
+    - id: "phys101"
+      core: false
+      footnote: "\\* may be required for PHYS142/MATH142"
+    - id: "math161"
+      core: false
+    - elective: true
+      text: "_Elective:_ \\ STAT193 or COMP102 or SPCE101"
+  T2:
+    - id: "phys142"
+      core: true
+    - id: "math151"
+      core: true
+    - id: "math142"
+      core: true
+    - elective: true
+      text: "_Elective:_ \\ COMP103, COMP132, MATH177, at least one COMP100 in year 1"
+Y2:
+  T1:
+    - id: "phys243"
+      core: true
+    - id: "phys245"
+      core: true
+    - id: "math244"
+      core: false
+    - id: "math277"
+      core: false
+  T2:
+    - id: "phys241"
+      core: true
+    - id: "phys242"
+      core: true
+    - id: "math243"
+      core: false
+    - id: "math251"
+      core: false
+
+Y3:
+  T1:
+    - id: "phys305"
+      core: true
+    - id: "phys307"
+      core: true
+    - id: "math301"
+      core: false
+    - elective: true
+      text: "_Elective:_ \\ MATH309 or MATH311"
+  T2:
+    - id: "phys304"
+      core: true
+    - id: "phys345"
+      core: true
+    - id: "math321"
+      core: false
+    - elective: true
+      text: "_Elective:_ \\ MATH324 or MATH361 or MATH381"
